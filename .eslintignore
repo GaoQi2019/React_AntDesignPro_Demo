@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /lambda/
 /scripts
 /config
@@ -5,4 +6,13 @@
 public
 dist
 .umi
+=======
+/lambda/
+/scripts
+/config
+.history
+public
+dist
+.umi
+>>>>>>> b03d595f1dffd3bf195f57932ae58592a87946dd
 mock

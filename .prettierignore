@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **/*.svg
 package.json
 .umi
@@ -20,4 +21,28 @@ yarn-error.log
 .history
 CNAME
 /build
+=======
+**/*.svg
+package.json
+.umi
+.umi-production
+/dist
+.dockerignore
+.DS_Store
+.eslintignore
+*.png
+*.toml
+docker
+.editorconfig
+Dockerfile*
+.gitignore
+.prettierignore
+LICENSE
+.eslintcache
+*.lock
+yarn-error.log
+.history
+CNAME
+/build
+>>>>>>> b03d595f1dffd3bf195f57932ae58592a87946dd
 /public
